@@ -5,20 +5,32 @@ BigInteger Implementation
 BigInteger a("123456");<br/>
 BigInteger b("345678");
 
-#Addition 
+<br/>
+
+#Addition <br/>
 a+b
 
-#Subtraction 
+<br/>
+
+#Subtraction <br/>
 a-b
 
-#Multiplication 
+<br/>
+
+#Multiplication <br/>
 a\*b
 
-#Division 
+<br/>
+
+#Division <br/>
 a/b
 
-#Mod 
+<br/>
+
+#Mod <br/>
 a%b
 
-#Power
+<br/>
+
+#Power<br/>
 a.pow(b)
